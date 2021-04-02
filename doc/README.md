@@ -1,10 +1,10 @@
 ## Documentation
 
-All documentation for `pkg-template` is located here!
+All documentation for `pypkg` is located here!
 
-[**pydoc**](https://github.com/paradoxysm/pkg-template/tree/master/doc/pydoc) : Documentation regarding python classes and functions.
+[**pydoc**](https://github.com/paradoxysm/pypkg/tree/master/doc/pydoc) : Documentation regarding python classes and functions.
 
-[**guides**](https://github.com/paradoxysm/pkg-template/tree/master/doc/guides) : Guides on using `pkg-template`.
+[**guides**](https://github.com/paradoxysm/pypkg/tree/master/doc/guides) : Guides on using `pypkg`.
 
 ## Overview
 
