@@ -39,9 +39,7 @@ See the [changelog](https://github.com/paradoxysm/pypkg/blob/master/CHANGES.md) 
 
 ## Development
 
-<!---
 [![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability-percentage/paradoxysm/pypkg?style=flat-square)](https://codeclimate.com/github/paradoxysm/pypkg/maintainability)
--->
 
 `pypkg` is in heavy development. Don't look, it's embarrassing!
 
