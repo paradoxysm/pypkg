@@ -9,17 +9,17 @@ def read(*paths):
         return f.read()
 
 setup(
-	name='pkg-template',
+	name='pypkg',
 	version='1.0.0',
-    description='Package Template Repository',
-    long_description=(read('README.md') + '\n\n'),
+	description='Python Package Template Repository',
+	long_description=(read('README.md') + '\n\n'),
 	long_description_content_type="text/markdown",
-	url='http://github.com/paradoxysm/pkg-template',
-    author='paradoxysm',
+	url='http://github.com/paradoxysm/pypkg',
+	author='paradoxysm',
 	author_email='paradoxysm.dev@gmail.com',
-    license='BSD-3-Clause',
-    packages=find_packages(),
-    install_requires=[
+	license='BSD-3-Clause',
+	packages=find_packages(),
+	install_requires=[
 
     ],
 	python_requires='>=3.5, <4',
@@ -31,9 +31,9 @@ setup(
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.5',
-		'Programming Language :: Python :: 3.6',
-		'Programming Language :: Python :: 3.7',
-		'Programming Language :: Python :: 3.8',
+	'Programming Language :: Python :: 3.6',
+	'Programming Language :: Python :: 3.7',
+	'Programming Language :: Python :: 3.8',
     ],
 	keywords=['python'],
     zip_safe=True)
