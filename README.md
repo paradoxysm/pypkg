@@ -8,7 +8,8 @@ This repository serves as a template repository for any python package developme
  - A skeleton for the README.md (which you're reading right now!)
  - A simple `setup.py` file
  - Testing with `pytest` ready to go
- - Automated testing and deployment through TravisCI
+ - Automated testing and deployment through CircleCI
+ - Code coverage through Codecov
  - Code maintainability and test coverage through CodeClimate
  - GitHub Issues/PR templates
 
