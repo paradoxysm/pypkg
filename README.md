@@ -1,6 +1,6 @@
 ## Python Package Template Repository
 
-[![CircleCI](https://flat.badgen.net/circleci/github/paradoxysm/pypkg?label=build&kill_cache=1)](https://circleci.com/gh/paradoxysm/pypkg/tree/master)
+[![CircleCI](https://img.shields.io/circleci/build/github/paradoxysm/pypkg?style=flat-square)](https://circleci.com/gh/paradoxysm/pypkg/tree/master)
 [![Codecov](https://flat.badgen.net/codecov/c/github/paradoxysm/pypkg?label=coverage)](https://codecov.io/gh/paradoxysm/pypkg)
 [![GitHub](https://flat.badgen.net/github/license/paradoxysm/pypkg)](https://github.com/paradoxysm/pypkg/blob/master/LICENSE)
 
